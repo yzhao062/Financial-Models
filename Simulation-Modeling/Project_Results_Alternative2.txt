@@ -1,0 +1,153 @@
+C:\Users\zhaoy9\Desktop\Book Examples 14-5\ZhaoYue-Project.doe
+4/19/2014 2:10:53 PM
+  
+ratio of leaving directly:  0  Feasible
+Registration Station:  10
+Registration Volunteer Number:  6
+Survey station:  8
+Survey Volunteer Number:  4
+  
+ratio of leaving directly:  0  Feasible
+Registration Station:  9
+Registration Volunteer Number:  5
+Survey station:  7
+Survey Volunteer Number:  3
+  
+ratio of leaving directly:  0  Feasible
+Registration Station:  10
+Registration Volunteer Number:  3
+Survey station:  5
+Survey Volunteer Number:  3
+  
+ratio of leaving directly:  0  Feasible
+Registration Station:  10
+Registration Volunteer Number:  5
+Survey station:  4
+Survey Volunteer Number:  3
+  
+ratio of leaving directly:  0  Feasible
+Registration Station:  10
+Registration Volunteer Number:  3
+Survey station:  8
+Survey Volunteer Number:  3
+  
+ratio of leaving directly:  0  Feasible
+Registration Station:  10
+Registration Volunteer Number:  3
+Survey station:  7
+Survey Volunteer Number:  3
+  
+ratio of leaving directly:  0  Feasible
+Registration Station:  10
+Registration Volunteer Number:  4
+Survey station:  4
+Survey Volunteer Number:  3
+  
+ratio of leaving directly:  0  Feasible
+Registration Station:  10
+Registration Volunteer Number:  4
+Survey station:  8
+Survey Volunteer Number:  3
+  
+ratio of leaving directly:  0  Feasible
+Registration Station:  10
+Registration Volunteer Number:  5
+Survey station:  5
+Survey Volunteer Number:  3
+  
+ratio of leaving directly:  0  Feasible
+Registration Station:  10
+Registration Volunteer Number:  3
+Survey station:  6
+Survey Volunteer Number:  3
+  
+ratio of leaving directly:  0  Feasible
+Registration Station:  10
+Registration Volunteer Number:  4
+Survey station:  5
+Survey Volunteer Number:  3
+  
+ratio of leaving directly:  0  Feasible
+Registration Station:  10
+Registration Volunteer Number:  4
+Survey station:  6
+Survey Volunteer Number:  3
+  
+ratio of leaving directly:  0  Feasible
+Registration Station:  10
+Registration Volunteer Number:  3
+Survey station:  4
+Survey Volunteer Number:  1
+  
+ratio of leaving directly:  0  Feasible
+Registration Station:  9
+Registration Volunteer Number:  6
+Survey station:  8
+Survey Volunteer Number:  1
+  
+ratio of leaving directly:  0  Feasible
+Registration Station:  10
+Registration Volunteer Number:  3
+Survey station:  4
+Survey Volunteer Number:  3
+  
+ratio of leaving directly:  0  Feasible
+Registration Station:  10
+Registration Volunteer Number:  6
+Survey station:  4
+Survey Volunteer Number:  4
+  
+ratio of leaving directly:  0  Feasible
+Registration Station:  10
+Registration Volunteer Number:  3
+Survey station:  4
+Survey Volunteer Number:  4
+  
+ratio of leaving directly:  0  Feasible
+Registration Station:  10
+Registration Volunteer Number:  5
+Survey station:  4
+Survey Volunteer Number:  4
+  
+ratio of leaving directly:  0  Feasible
+Registration Station:  10
+Registration Volunteer Number:  4
+Survey station:  4
+Survey Volunteer Number:  4
+  
+ratio of leaving directly:  0  Feasible
+Registration Station:  10
+Registration Volunteer Number:  3
+Survey station:  8
+Survey Volunteer Number:  4
+  
+ratio of leaving directly:  0  Feasible
+Registration Station:  10
+Registration Volunteer Number:  3
+Survey station:  6
+Survey Volunteer Number:  1
+  
+ratio of leaving directly:  0  Feasible
+Registration Station:  10
+Registration Volunteer Number:  6
+Survey station:  4
+Survey Volunteer Number:  1
+  
+ratio of leaving directly:  0  Feasible
+Registration Station:  10
+Registration Volunteer Number:  6
+Survey station:  5
+Survey Volunteer Number:  1
+  
+ratio of leaving directly:  0  Feasible
+Registration Station:  10
+Registration Volunteer Number:  5
+Survey station:  5
+Survey Volunteer Number:  1
+  
+ratio of leaving directly:  0  Feasible
+Registration Station:  10
+Registration Volunteer Number:  6
+Survey station:  6
+Survey Volunteer Number:  4
+  

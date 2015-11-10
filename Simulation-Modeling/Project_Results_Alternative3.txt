@@ -1,0 +1,153 @@
+C:\Users\zhaoy9\Desktop\Book Examples 14-5\ZhaoYue-Project.doe
+4/19/2014 2:27:12 PM
+  
+ratiol of survey:  0.380582087603551  Feasible
+Registration Station:  9
+Registration Volunteer Number:  3
+Survey station:  8
+Survey Volunteer Number:  4
+  
+ratiol of survey:  0.378142602573661  Feasible
+Registration Station:  10
+Registration Volunteer Number:  3
+Survey station:  8
+Survey Volunteer Number:  4
+  
+ratiol of survey:  0.376152936924932  Feasible
+Registration Station:  10
+Registration Volunteer Number:  3
+Survey station:  8
+Survey Volunteer Number:  3
+  
+ratiol of survey:  0.375419578630957  Feasible
+Registration Station:  10
+Registration Volunteer Number:  6
+Survey station:  8
+Survey Volunteer Number:  4
+  
+ratiol of survey:  0.375058396998496  Feasible
+Registration Station:  9
+Registration Volunteer Number:  5
+Survey station:  8
+Survey Volunteer Number:  4
+  
+ratiol of survey:  0.373998278279335  Feasible
+Registration Station:  10
+Registration Volunteer Number:  4
+Survey station:  8
+Survey Volunteer Number:  3
+  
+ratiol of survey:  0.373001217909449  Feasible
+Registration Station:  10
+Registration Volunteer Number:  4
+Survey station:  8
+Survey Volunteer Number:  4
+  
+ratiol of survey:  0.372588811749462  Feasible
+Registration Station:  9
+Registration Volunteer Number:  6
+Survey station:  8
+Survey Volunteer Number:  1
+  
+ratiol of survey:  0.333851377294471  Feasible
+Registration Station:  9
+Registration Volunteer Number:  5
+Survey station:  7
+Survey Volunteer Number:  3
+  
+ratiol of survey:  0.330090831063716  Feasible
+Registration Station:  10
+Registration Volunteer Number:  6
+Survey station:  7
+Survey Volunteer Number:  4
+  
+ratiol of survey:  0.295413406642325  Feasible
+Registration Station:  9
+Registration Volunteer Number:  3
+Survey station:  6
+Survey Volunteer Number:  3
+  
+ratiol of survey:  0.293588172619347  Feasible
+Registration Station:  10
+Registration Volunteer Number:  3
+Survey station:  6
+Survey Volunteer Number:  3
+  
+ratiol of survey:  0.29132545924557  Feasible
+Registration Station:  9
+Registration Volunteer Number:  6
+Survey station:  6
+Survey Volunteer Number:  4
+  
+ratiol of survey:  0.247485006221309  Feasible
+Registration Station:  10
+Registration Volunteer Number:  3
+Survey station:  5
+Survey Volunteer Number:  3
+  
+ratiol of survey:  0.243719959790658  Feasible
+Registration Station:  9
+Registration Volunteer Number:  3
+Survey station:  5
+Survey Volunteer Number:  1
+  
+ratiol of survey:  0.201535173778922  Feasible
+Registration Station:  9
+Registration Volunteer Number:  5
+Survey station:  4
+Survey Volunteer Number:  1
+  
+ratiol of survey:  0.200699482686859  Feasible
+Registration Station:  10
+Registration Volunteer Number:  5
+Survey station:  4
+Survey Volunteer Number:  3
+  
+ratiol of survey:  0.200616041315457  Feasible
+Registration Station:  10
+Registration Volunteer Number:  6
+Survey station:  4
+Survey Volunteer Number:  3
+  
+ratiol of survey:  0.200568414143916  Feasible
+Registration Station:  10
+Registration Volunteer Number:  3
+Survey station:  4
+Survey Volunteer Number:  3
+  
+ratiol of survey:  0.369596832917648  Infeasible
+Registration Station:  9
+Registration Volunteer Number:  3
+Survey station:  8
+Survey Volunteer Number:  3
+  
+ratiol of survey:  0.377954060486435  Infeasible
+Registration Station:  9
+Registration Volunteer Number:  4
+Survey station:  8
+Survey Volunteer Number:  3
+  
+ratiol of survey:  0.369699918171621  Infeasible
+Registration Station:  10
+Registration Volunteer Number:  3
+Survey station:  8
+Survey Volunteer Number:  1
+  
+ratiol of survey:  0.369253251218682  Infeasible
+Registration Station:  9
+Registration Volunteer Number:  6
+Survey station:  8
+Survey Volunteer Number:  4
+  
+ratiol of survey:  0.292218764131707  Infeasible
+Registration Station:  9
+Registration Volunteer Number:  4
+Survey station:  6
+Survey Volunteer Number:  1
+  
+ratiol of survey:  0.204257432425259  Infeasible
+Registration Station:  9
+Registration Volunteer Number:  4
+Survey station:  4
+Survey Volunteer Number:  4
+  

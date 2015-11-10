@@ -1,0 +1,39 @@
+C:\Users\zhaoy9\Desktop\Book Examples 14-5\ZhaoYue-Project.doe
+4/2/2014 7:15:33 PM
+  
+ratio of leaving directly:  0.186387984398693  Feasible
+Registration Station:  4
+Registration Volunteer Number:  6
+Survey station:  8
+Survey Volunteer Number:  1
+  
+ratio of leaving directly:  0.186387984398693  Feasible
+Registration Station:  4
+Registration Volunteer Number:  4
+Survey station:  8
+Survey Volunteer Number:  1
+  
+ratio of leaving directly:  0.187882311198759  Feasible
+Registration Station:  4
+Registration Volunteer Number:  4
+Survey station:  8
+Survey Volunteer Number:  4
+  
+ratio of leaving directly:  0.191135063126048  Feasible
+Registration Station:  4
+Registration Volunteer Number:  4
+Survey station:  8
+Survey Volunteer Number:  2
+  
+ratio of leaving directly:  0.191710969579996  Feasible
+Registration Station:  4
+Registration Volunteer Number:  3
+Survey station:  8
+Survey Volunteer Number:  2
+  
+ratio of leaving directly:  0.195524155389575  Feasible
+Registration Station:  4
+Registration Volunteer Number:  4
+Survey station:  8
+Survey Volunteer Number:  3
+  
